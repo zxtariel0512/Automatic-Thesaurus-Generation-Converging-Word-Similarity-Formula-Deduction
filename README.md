@@ -1,0 +1,2 @@
+# Automatic-Thesaurus-Generation-Converging-Word-Similarity-Formula-Deduction
+Propose an enhanced algorithm model to generate thesaurus unsupervisedly by implementing iterations. Derive a mathematical formula to compute word similarities which are used in the iterations, and prove its monotone increasing and convergence via more and more iteration steps. Use Wall Street Journal data sets as training file (79325 lines), and evaluate and test algorithm using WordNet
